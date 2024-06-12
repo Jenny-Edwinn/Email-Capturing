@@ -45,7 +45,7 @@ body{
     transition: 0.5s;
 }
 .section-1 .submit:hover, .section-3 .submit:hover{
-    background-color:  rgb(5, 22, 1);
+    background-color:  rgb(83, 235, 209);
 }
 
 .section-1 .submit:active, .section-3 .submit:active{
